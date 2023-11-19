@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ... My site 🌐 denismutinda.com
 - 🌱 I’m currently learning ... Full stack development with a special focus on MERN stack.
 - 👯 I’m looking to collaborate on ... Full Stack Web Apps
-- 🤔 I’m looking for help with ... Python backend development
+- 🤔 I’m looking for help with ... Python development and data science.
 - 💬 Ask me about ... Anything and Everything 🤓
 - 📫 How to reach me: ... denismutinda.com
 - 😄 Pronouns: ... He/Him
