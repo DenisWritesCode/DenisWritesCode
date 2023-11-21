@@ -3,7 +3,7 @@
 <!--
 **DenisWritesCode/DenisWritesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on ... My site 🌐 denismutinda.com
+- 🔭 I’m currently working on ... My site 🌐 denismutinda.com and a series of tiny projects that pique my interest.
 - 🌱 I’m currently learning ... Full stack development with a special focus on MERN stack.
 - 👯 I’m looking to collaborate on ... Full Stack Web Apps as well as cross-platform mobile apps.
 - 🤔 I’m looking for help with ... Good courses on Python development and data science.
