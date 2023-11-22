@@ -11,6 +11,7 @@
 - 📫 How to reach me: ... denismutinda.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am ambidextrous 👐
+- 💻 Projects to come soon ... #100DaysOfCode.
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisWritesCode&show_icons=true)  
